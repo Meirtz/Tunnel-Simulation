@@ -1,0 +1,16 @@
+/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       14:52:46
+/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       15:45:42
+/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       15:47:36
+
+ *** FATAL ***                           CP =       0.453   TIME= 15:47:38
+ While 1 GPU devices have been detected on this machine, no supported    
+ GPU devices have been detected.  Only Tesla-series or Quadro            
+ K5000/K5200/K6000/M6000 GPU devices are supported.  Please verify that  
+ a supported GPU device is installed on this machine or rerun without    
+ using the -acc command line option.                                     
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************
