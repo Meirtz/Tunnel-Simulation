@@ -68,3 +68,22 @@
  *** ERROR ***                           CP =      33.125   TIME= 00:34:03
  This function requires defined areas.                                   
   No areas are currently defined.                                        
+
+ *** WARNING ***                         CP =      38.250   TIME= 00:42:16
+ 0.147809 is not a recognized PREP7 command, abbreviation, or macro.     
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      39.688   TIME= 00:43:13
+ Some nodes were not deleted by the previous NDELE command because they  
+ were attached to elements.                                              
+
+ *** WARNING ***                         CP =      40.078   TIME= 00:43:40
+ No valid degree of freedom labels were input.  The MDELE command is     
+ ignored.                                                                
+
+ *** ERROR ***                           CP =      47.219   TIME= 00:48:00
+ Missing separator between two fields.                                   
+
+ *** ERROR ***                           CP =      47.344   TIME= 00:48:01
+ The above error occurred processing field= 0.30901699.-0.95105651       
+  Line= PSPRNG,18,,30000000,0.30901699.-0.95105651,0.                    
