@@ -1,90 +1,94 @@
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       14:52:46
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       15:45:42
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       15:47:36
+/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       01:07:09
 
- *** FATAL ***                           CP =       0.453   TIME= 15:47:38
- While 1 GPU devices have been detected on this machine, no supported    
- GPU devices have been detected.  Only Tesla-series or Quadro            
- K5000/K5200/K6000/M6000 GPU devices are supported.  Please verify that  
- a supported GPU device is installed on this machine or rerun without    
- using the -acc command line option.                                     
+ *** WARNING ***                         CP =       2.562   TIME= 01:08:01
+ No entities defined for GPLOT in window 1.  Command ignored.            
 
- ************************************************************************
- The above error is non-recoverable by ANSYS                             
-  ANSYS run terminated by the indicated error                            
-  Current data base saved if possible.                                   
- ************************************************************************
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       22:03:41
+ *** WARNING ***                         CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UX at unused node 26.            
 
- *** FATAL ***                           CP =       0.469   TIME= 22:03:42
- While 1 GPU devices have been detected on this machine, no supported    
- GPU devices have been detected.  Only Tesla-series or Quadro            
- K5000/K5200/K6000/M6000 GPU devices are supported.  Please verify that  
- a supported GPU device is installed on this machine or rerun without    
- using the -acc command line option.                                     
+ *** WARNING ***                         CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UY at unused node 26.            
 
- ************************************************************************
- The above error is non-recoverable by ANSYS                             
-  ANSYS run terminated by the indicated error                            
-  Current data base saved if possible.                                   
- ************************************************************************
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       22:04:12
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       22:05:44
+ *** WARNING ***                         CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UZ at unused node 26.            
 
- *** ERROR ***                           CP =       5.516   TIME= 22:21:24
- An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
- has been corrupted.  ANSYS is unable to recover and will terminate.     
- Previously saved files are unaffected.  Please send the data leading    
- to this operation to your technical support provider, as this will      
- allow ANSYS, Inc to improve the program.                                
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       23:41:51
+ *** WARNING ***                         CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTX at unused node 26.          
 
- *** ERROR ***                           CP =      15.234   TIME= 00:11:20
- Missing separator between two fields.                                   
+ *** WARNING ***                         CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTY at unused node 26.          
 
- *** ERROR ***                           CP =      15.375   TIME= 00:11:23
- The above error occurred processing field= 2.45，6.15，0              
-  Line= K,4,2.45，6.15，0.                                             
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UX at unused node 30.            
 
- *** WARNING ***                         CP =      15.453   TIME= 00:11:25
- Undefined parameter used for coordinate 1.                              
-  A value of 0.0 will be used.                                           
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UY at unused node 30.            
 
- *** ERROR ***                           CP =      15.797   TIME= 00:11:43
- Missing separator between two fields.                                   
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UZ at unused node 30.            
 
- *** ERROR ***                           CP =      15.938   TIME= 00:11:45
- The above error occurred processing field= 2.45，6.15，0              
-  Line= K,4,2.45，6.15，0.                                             
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTX at unused node 30.          
 
- *** WARNING ***                         CP =      16.016   TIME= 00:11:46
- Undefined parameter used for coordinate 1.                              
-  A value of 0.0 will be used.                                           
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTY at unused node 30.          
 
- *** WARNING ***                         CP =      21.469   TIME= 00:20:01
- This function requires that files currently open be closed.             
- Executing the function will exit the preprocessor.                      
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UX at unused node 31.            
 
- *** ERROR ***                           CP =      33.125   TIME= 00:34:03
- This function requires defined areas.                                   
-  No areas are currently defined.                                        
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UY at unused node 31.            
 
- *** WARNING ***                         CP =      38.250   TIME= 00:42:16
- 0.147809 is not a recognized PREP7 command, abbreviation, or macro.     
-  This command will be ignored.                                          
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UZ at unused node 31.            
 
- *** WARNING ***                         CP =      39.688   TIME= 00:43:13
- Some nodes were not deleted by the previous NDELE command because they  
- were attached to elements.                                              
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTX at unused node 31.          
 
- *** WARNING ***                         CP =      40.078   TIME= 00:43:40
- No valid degree of freedom labels were input.  The MDELE command is     
- ignored.                                                                
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTY at unused node 31.          
 
- *** ERROR ***                           CP =      47.219   TIME= 00:48:00
- Missing separator between two fields.                                   
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UX at unused node 32.            
 
- *** ERROR ***                           CP =      47.344   TIME= 00:48:01
- The above error occurred processing field= 0.30901699.-0.95105651       
-  Line= PSPRNG,18,,30000000,0.30901699.-0.95105651,0.                    
-/COM,ANSYS RELEASE Release 18.2      BUILD 18.2      UP20170726       23:01:44
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UY at unused node 32.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UZ at unused node 32.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTX at unused node 32.          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTY at unused node 32.          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UX at unused node 33.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UY at unused node 33.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UZ at unused node 33.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTX at unused node 33.          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTY at unused node 33.          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UX at unused node 34.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UY at unused node 34.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint UZ at unused node 34.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTX at unused node 34.          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      75.922   TIME= 02:21:32
+ Specified degree of freedom constraint ROTY at unused node 34.          
