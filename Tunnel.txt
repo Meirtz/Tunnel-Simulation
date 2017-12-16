@@ -1,0 +1,5 @@
+/COM,  Structural
+/PREP7
+/TITLE,Tunnel Support Structural Analysis
+GPLOT
+FINISH
